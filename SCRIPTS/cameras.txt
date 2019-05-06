@@ -1,0 +1,26 @@
+Onde o host está: 01 – Praça da Estação
+02 – Avenida Getúlio Vargas, n° 809
+03 – Panorâmica Avenida Teleférico
+04 – Rodovia BR-040 KM 526
+05 – Rua Ministro Guilhermino de Oliveira, 381
+06 – Avenida Olegário Maciel, nº 169
+07 – Avenida do Contorno, n° 5943
+08 – Avenida Amazonas, n° 8500
+09 – Avenida Oiapoque
+10 – Avenida Bias Fortes, nº 1187
+11 – Avenida Francisco Sá, nº 654
+12 – Avenida Francisco Sales
+13 – Avenida dos Andradas, n° 3560
+14 – Rua Espírito Santo
+15 – Avenida Brigadeiro Eduardo Gomes, n° 515
+16 – Avenida Cristiano Machado, n° 10405
+17 – Avenida Tereza Cristina, n° 232
+18 – Avenida Dom Pedro II, nº 4521
+19 – Avenida Barbacena, nº 455
+20 – Avenida Nossa Senhora de Fátima, n° 2126
+21 – Avenida Dom José Gaspar, n° 879
+22 – Avenida Presidente Tancredo Neves, n° 1100
+23 – Avenida Barão Homem de Melo, n° 100
+24 – Rua Itajubá, n° 608
+25 – Avenida Vilarinho, n° 1000 – Venda Nova
+

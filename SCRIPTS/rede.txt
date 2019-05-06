@@ -1,0 +1,20 @@
+PROVEDOR:  AS7738 Telemar Norte Leste S.A. 
+
+CIDADE:  Contagem 
+
+PAÍS:  Brazil 
+
+ISP:  Oi Velox 
+
+IP EXTERNO:  189.83.57.238 
+
+ESTADO:  MG 
+
+STATUS:  success 
+
+IP Interno: 192.168.1.106 
+
+GW:  192.168.1.1 
+
+Hostname:  raspberrypi 
+

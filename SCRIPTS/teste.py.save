@@ -1,0 +1,30 @@
+#_*_ coding: utf-8 _*_
+
+import requests
+import json
+import sys
+import socket
+
+#Onde BRXX0033 corresponde ao código da Cidade
+solicita = requests.get('http://ip-api.com/json')
+rede = json.loads(solicita.text)
+
+#Grava um txt
+sys.stdout = open('rede.txt', 'w')
+
+#Define o que buscar na API IP-API.com
+print('PROVEDOR: ', rede['as'], '\n')
+print('CIDADE: ', rede['city'], '\n')
+print('PAÍS: ', rede['country'], '\n')
+print('ISP: ', rede['isp'], '\n')
+print('IP EXTERNO: ', rede['query'], '\n')
+print('ESTADO: ', rede['region'], '\n')
+print('STATUS: ', rede['status'], '\n')
+
+print("Your IP Address is: ",wlan0end="")
+print(socket.gethostbyname(socket.gethostname()))
+print()
+
+
+
+#END
