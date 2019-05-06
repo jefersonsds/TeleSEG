@@ -1,0 +1,21 @@
+﻿Created By @cont4ins
++++++++++++MENU+++++++++++
+**************************************
+/cve = Via ExploitDatabase TW	     *
+**************************************
+/uptime = Tempo disp. ligado         *
+**************************************
+/hostname = Nome do Dispositivo      *
+**************************************
+/ipx = Endereçamento IP e detalhes   *
+**************************************
+/cameras = Câmeras espalhadas por BH *
+**************************************
+/egg = Mostra uma busca no Twitter   *
+**************************************
+/news = Mostra TOP News G1 Tecnologia*
+**************************************
+/clima = Info sobre clima	     *
+**************************************
+/spaco = Mostra Lista Asteroides     *
+**************************************

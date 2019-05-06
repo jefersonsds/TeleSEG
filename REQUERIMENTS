@@ -1,0 +1,29 @@
+Todos os Ítens Abaixo são primordiais para o bom funcionamento dos comandos do RaspUtility.
+Instale os Pacotes abaixo:
+
+REQUERIMENTS:
+python3+dependências
+pip3
+beatifulsoup4
+requests
+json
+pyTelegram bot : https://github.com/eternnoir/pyTelegramBotAPI/blob/master/README.md
+lynx
+
+RUN COMMANDS FOR INSTALL
+
+sudo apt-get install -y python3-pip
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+sudo apt-get install -y python3-venv
+pip3 install pyTelegramBotAPI
+sudo apt-get install git
+git clone https://github.com/eternnoir/pyTelegramBotAPI.git
+
+cd pyTelegramBotAPI
+python3 setup.py install
+
+pip3 install beautifulsoup4
+pip3 install requests
+sudo apt-get install html-xml-utils 
+
+---END---
